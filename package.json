@@ -1,0 +1,17 @@
+{
+  "name": "bitmap-transformer",
+  "version": "0.0.1",
+  "author": "Marshall Miller",
+  "main": "index.js",
+  "description": "Transforms the color pallete of a .bmp into a new file",
+  "devDependancies": {
+    "gulp": "3.9.1",
+    "chai": "3.5.0",
+    "mocha": "2.4.0",
+    "gulp-eslint": "2.9.0"
+  },
+  "devDependencies": {
+    "gulp-jshint": "^2.0.1",
+    "jshint": "^2.9.2"
+  }
+}
